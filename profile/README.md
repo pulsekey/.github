@@ -2,13 +2,6 @@
 
 <p align="center"><strong>Secrets in motion, rotate credentials instantly, no redeploys.</strong></p>
 
-<p align="center">
-  <!-- Badges -->
-  <a href="https://github.com/pulsekey/cli/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/pulsekey/cli?style=social" /></a>
-  <a href="https://twitter.com/pulsekey"><img alt="Follow on X" src="https://img.shields.io/twitter/follow/pulsekey?style=social" /></a>
-  <a href="https://opensource.org/licenses/MIT"><img alt="License" src="https://img.shields.io/badge/license-MIT-green" /></a>
-</p>
-
 ---
 
 ## ✨ Features
@@ -28,7 +21,6 @@
 - **Docs:** <https://docs.pulsekey.io>
 - **CLI:** <https://github.com/pulsekey/cli>
 - **Roadmap:** <https://pulsekey.io/roadmap>
-- **Twitter / X:** <https://twitter.com/pulsekey>
 
 ---
 
